@@ -40,6 +40,6 @@ dpsd 19135
 
 Τζιαλλας: https://github.com/AggelosTzia
 
-Νινου:
+Νινου: https://github.com/IoannaNi
 
 Χαρμπ:
