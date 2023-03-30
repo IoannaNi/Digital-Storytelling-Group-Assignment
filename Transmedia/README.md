@@ -34,7 +34,7 @@ dpsd 19135
 
 Κουρτιδης: https://github.com/kourtidaros
 
-Ψυχαλης:
+Ψυχαλης: https://github.com/SUPERSPECIAL
 
 Γουλασης:
 
