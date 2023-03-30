@@ -9,37 +9,37 @@
 
 ***3)Γουλασης Ανδρεας***
 
-***4)Τζιαλλας Αγγελος
+***4)Τζιαλλας Αγγελος***
 
-***5)Νινου Ιωαννα
+***5)Νινου Ιωαννα***
 
-***6)Χαρμπ Ελενη 
+***6)Χαρμπ Ελενη*** 
 
 
 ### University Registration Number: 
 
-***1)dpsd 17053
+***1)dpsd 17053***
 
-***2)dpsd 17127
+***2)dpsd 17127***
 
-***3)dpsd 18024
+***3)dpsd 18024***
 
-***4)dpsd 19128
+***4)dpsd 19128***
 
-***5)dpsd 19085 
+***5)dpsd 19085*** 
 
-***6)dpsd 19135
+***6)dpsd 19135***
 
 ### GitHub Personal Profile:
 
-***Κουρτιδης: https://github.com/kourtidaros 
+***Κουρτιδης: https://github.com/kourtidaros*** 
 
-***Ψυχαλης: https://github.com/SUPERSPECIAL99
+***Ψυχαλης: https://github.com/SUPERSPECIAL99***
 
-***Γουλασης:
+***Γουλασης:***
 
-***Τζιαλλας: https://github.com/AggelosTzia
+***Τζιαλλας: https://github.com/AggelosTzia***
 
-***Νινου: https://github.com/IoannaNi
+***Νινου: https://github.com/IoannaNi***
 
-***Χαρμπ: https://github.com/ELENIHARB
+***Χαρμπ: https://github.com/ELENIHARB***
