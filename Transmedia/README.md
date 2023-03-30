@@ -32,9 +32,9 @@ dpsd 19135
 
 ### GitHub Personal Profile:
 
-Κουρτιδης: https://github.com/kourtidaros
+**Κουρτιδης: https://github.com/kourtidaros **
 
-Ψυχαλης: https://github.com/SUPERSPECIAL
+Ψυχαλης: https://github.com/SUPERSPECIAL99
 
 Γουλασης:
 
